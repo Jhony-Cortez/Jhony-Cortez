@@ -1,8 +1,7 @@
-### Seja Bem vindo(a) ao meu GitHub, meu nome é Jhony Cortez e sou um Front End Developer 😎
-- 🖥️ Estudando Node.Js;
+### Seja Bem vindo(a) ao meu GitHub, meu nome é Jhony Cortez e sou um Front End Developer 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Jhony-Cortez">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Jhony-Cortez&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony-Cortez&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
